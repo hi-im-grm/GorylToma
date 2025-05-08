@@ -201,4 +201,4 @@ async def liczba(ctx):
     await ctx.send(f"📊 Aktualna liczba uczestników: {count}")
 
 # Run the bot
-bot.run("MTM1NTYwMjAzNjc4NzI1MzMzMA.GPhg1r.rKXpqG-edK2AryNpyGDOZCAMzCHk6gYZ54tV2M")  # Replace with your bot token
+bot.run("") 
